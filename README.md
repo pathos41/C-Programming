@@ -19,24 +19,24 @@ File_display_on_screen.c reads a block of data from a file into memory, and then
 
 Find_max_and_min_in_arrays.c initializes an array, and gets the maximum and minimum values of the array.
 
-Input_floating_point_numbers_from_stream.c gets a number from the stream stdin, and displays it on screen as a floating point number.
+Input_floating_point_numbers_from_stream.c gets a number from the stream stdin, and displays it on screen as a floating-point number.
 
 Multiple_strings_concatenation.c uses a function with a variable argument list, and concatenates an arbitrary number of strings.
 
 Occurrence_of_letters_in_strings.c counts the occurrence of each letter in a string.
 
-Pause_for_5sec.c gives a pause for five seconds, showing a dot on screen for each second elapsed.
+Pause_for_5sec.c gives a pause for five seconds, printing a dot on screen for each second elapsed.
 
 Print_array_elements.c sets a pointer to an array, and uses the pointer to print the elements in the array.
 
-Search_string_within_another.c searches for a target string within another string, showing all occurrences of the target string.
+Search_for_string_within_another.c searches for a target string within another string, showing all occurrences of the target string.
 
 Simple_calculator.c performs addition, subtraction, multiplication and division of two arguments.
 
-Sort_numbers_in_order.c sorts the numbers in an array, and it allows the user to choose whether to sort in an ascending or a descending order.
+Sort_numbers_in_order.c sorts the numbers in an array, and it allows the user to decide whether to sort in an ascending order or a descending order.
 
 Sort_strings_in_order.c takes a number of strings as arguments, and stops when a certain string is entered. Then it sorts the strings in ascending order.
 
-Store_and_display_names.c lets users input their names, and show them in a neat format.
+Store_and_display_names.c lets users input their names, and show the names in a neat format on screen.
 
 String_length_comparison.c compares the length of two strings, and shows the longer string on screen.
